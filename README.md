@@ -1,17 +1,18 @@
 # SourceMonitor Information
 
-The developoer of [SourceMonitor], Jim Wanner, retires from software development. The software will become open source and a new home at GitHub.
+The developer of [SourceMonitor], Jim Wanner, retires from software development. The software will become open source and a new home at GitHub.
 
 The repository is not public at the moment because of licensed code. This is required until the licensed code is replaced. Then we're able to start with a clean and public repository without the licensed code.
 
 ## Support needed
 
 - C/C++ developers to maintain the code
+- Know how for GitHub automation
+- Know how for HelpFiles (*.chm at the moment, something else for the future?)
+- Know how for creating tests
+- Know how for git pages
+- Know how for git pages
 - Replacement of licensed code with open source code
-- KnowHow for git pages
-- KnowHow for GitHub automation
-- KnowHow for creating test
-- KnowHow for HelpFiles (*.chm at the moment, something else for the future?)
 
 ## The proposed steps/roadmap
 
