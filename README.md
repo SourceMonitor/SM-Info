@@ -28,4 +28,3 @@ The repository is not public at the moment because of licensed code. This is req
 [SourceMonitor]: https://www.campwoodsw.com/sourcemonitor.html
 [catch]: https://github.com/catchorg/Catch2
 [plog]: https://github.com/SergiusTheBest/plog
-[nda]: https://en.wikipedia.org/wiki/Non-disclosure_agreement
