@@ -4,6 +4,8 @@ The developer of [SourceMonitor], Jim Wanner, retires from software development.
 
 The repository is not public at the moment because of licensed code. This is required until the licensed code is replaced. Then we're able to start with a clean and public repository without the licensed code.
 
+If you want to join the team, please contact me [here][email].
+
 ## Support needed
 
 - C/C++ developers to maintain the code
@@ -27,4 +29,5 @@ The repository is not public at the moment because of licensed code. This is req
 [ANTLR]: https://www.antlr.org/
 [SourceMonitor]: https://www.campwoodsw.com/sourcemonitor.html
 [catch]: https://github.com/catchorg/Catch2
+[email]: mailto:SourceMonitor@derpaul.net?Subject=SourceMonitor
 [plog]: https://github.com/SergiusTheBest/plog
