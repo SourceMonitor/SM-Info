@@ -1,6 +1,6 @@
 # SourceMonitor Information
 
-The developer of [SourceMonitor], Jim Wanner, retires from software development. The software will become open source and a new home at GitHub.
+The developer of [SourceMonitor], Jim Wanner, is retiring from software development. The software will become open source and a new home at GitHub.
 
 The repository is not public at the moment because of licensed code. This is required until the licensed code is replaced. Then we're able to start with a clean and public repository without the licensed code.
 
