@@ -14,6 +14,7 @@ If you want to join the team, please contact me [here][email].
 - Know how for creating tests
 - Know how for git pages
 - Know how for git pages
+- Know how for [Inno Setup][inno]
 - Replacement of licensed code with open source code
 
 ## The proposed steps/roadmap
@@ -24,10 +25,12 @@ If you want to join the team, please contact me [here][email].
 - In parallel replace proprietary logging with a more modern logging system like [Plog][plog] or something similar. This is to concentrate more on the features of SourceMonitor instead of developing some logging solutions.
 - Enable a 64-bit version of the software with the goal of better usage of the provided OS/hardware resources.
 - Seperate the UI from the code to become the software running on different plattforms like MacOS, Linux and Windows. Maybe a WebUI is possible?
+- In case the software will run on different OS, there is a need for another installer.
 - Parallel a constant refactoring of the software is required. While this process is running tests for the software have to be created. For example using [Catch2][catch] or something else.
 
 [ANTLR]: https://www.antlr.org/
 [SourceMonitor]: https://www.campwoodsw.com/sourcemonitor.html
 [catch]: https://github.com/catchorg/Catch2
 [email]: mailto:SourceMonitor@derpaul.net?Subject=SourceMonitor
+[inno]: https://jrsoftware.org/isinfo.php
 [plog]: https://github.com/SergiusTheBest/plog
