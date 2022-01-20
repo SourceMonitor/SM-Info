@@ -13,7 +13,6 @@ If you want to join the team, please contact me [here][email].
 - Know how for HelpFiles (*.chm at the moment, something else for the future?)
 - Know how for creating tests
 - Know how for git pages
-- Know how for git pages
 - Know how for [Inno Setup][inno]
 - Replacement of licensed code with open source code
 
