@@ -1,6 +1,6 @@
 # SourceMonitor Information
 
-The developer of [SourceMonitor], Jim Wanner, is retiring from software development. The software will become open source and a new home at GitHub.
+The developer of [SourceMonitor], [Jim Wanner], is retiring from software development. The software will become open source and a new home at GitHub.
 
 The repository is not public at the moment because of licensed code. This is required until the licensed code is replaced. Then we're able to start with a clean and public repository without the licensed code.
 
@@ -32,6 +32,7 @@ If you want to join the team, please contact me [here][email].
 - ~~In parallel replace proprietary logging with a more modern logging system like [Plog][plog] or something similar. This is to concentrate more on the features of SourceMonitor instead of developing some logging solutions.~~ 20220208 - Old logging functions replaced with plog logging to file and console. Added additional logging for solving a bug. Needs to be customizable (loglevel) by a setting, will use registry entry like before.
 
 [ANTLR]: https://www.antlr.org/
+[Jim Wanner]: https://campwoodsw.com/emcomp/about-us/
 [SourceMonitor]: https://www.campwoodsw.com/sourcemonitor.html
 [catch]: https://github.com/catchorg/Catch2
 [email]: mailto:SourceMonitor@derpaul.net?Subject=SourceMonitor
