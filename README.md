@@ -19,9 +19,11 @@ If you want to join the team, please contact me [here][email].
 ## The proposed steps/roadmap
 
 - Remove Campwood related parts like
-  - Paths
-  - Registry keys
-  - (C)-Notes
+  - ~~Paths~~
+  - ~~Registry keys~~
+  - ~~(C)-Notes~~
+    - Except for the graphic classes done - this classes will be replaced.
+    - Except for the grammar files - new grammars and parsers will come with the parser replacement.
 - Get rid of the licensed code either by creating own or use of public licensed code as substitution.
 - Start with a clean and public repository without licensed code.
 - Get rid of proprietary and licensed software for building SourceMonitor - this affects the parser and will maybe result in a replacement with something else, e. g. [ANTLR4][ANTLR].
