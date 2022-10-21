@@ -1,22 +1,22 @@
 <mxfile host="65bd71144e">
     <diagram id="Y4OOLVU7W3uW-vrAjaRl" name="Page-1">
-        <mxGraphModel dx="805" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1027" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="Frontend" style="swimlane;container=0;fillColor=none;" parent="1" vertex="1">
+                <mxCell id="2" value="Frontend" style="swimlane;container=0;fillColor=none;strokeColor=#808080;" parent="1" vertex="1">
                     <mxGeometry x="120" y="20" width="840" height="180" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Source Monitor CLI&lt;br&gt;(smcli)" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="2" vertex="1">
+                <mxCell id="4" value="Source Monitor CLI&lt;br&gt;(smcli)" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;strokeColor=#808080;" parent="2" vertex="1">
                     <mxGeometry x="240" y="60" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Source Monitor GUI&lt;br&gt;(smgui)" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="2" vertex="1">
+                <mxCell id="3" value="Source Monitor GUI&lt;br&gt;(smgui)" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;strokeColor=#808080;" parent="2" vertex="1">
                     <mxGeometry x="40" y="60" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Source Monitor Test&lt;br&gt;(smtest)" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="2" vertex="1">
+                <mxCell id="5" value="Source Monitor Test&lt;br&gt;(smtest)" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;strokeColor=#808080;" parent="2" vertex="1">
                     <mxGeometry x="440" y="60" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="..." style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="2" vertex="1">
+                <mxCell id="10" value="..." style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;strokeColor=#808080;" parent="2" vertex="1">
                     <mxGeometry x="640" y="60" width="160" height="80" as="geometry"/>
                 </mxCell>
             </root>

@@ -1,43 +1,43 @@
 <mxfile host="65bd71144e">
     <diagram id="A8KUH6x5goQzQZ5fHaeG" name="Page-1">
-        <mxGraphModel dx="805" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1027" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="8" value="Backend" style="swimlane;container=0;fillColor=none;" parent="1" vertex="1">
+                <mxCell id="8" value="Backend" style="swimlane;container=0;strokeColor=#808080;" parent="1" vertex="1">
                     <mxGeometry x="80" y="-70" width="1410" height="410" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="QT" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="7" value="QT" style="html=1;dashed=0;whitespace=wrap;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="80" y="130" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="BOOST" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="10" value="BOOST" style="html=1;dashed=0;whitespace=wrap;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="280" y="130" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Catch2" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="11" value="Catch2" style="html=1;dashed=0;whitespace=wrap;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="480" y="130" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Google Test" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="12" value="Google Test" style="html=1;dashed=0;whitespace=wrap;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="80" y="250" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="ICU for C++" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="13" value="ICU for C++" style="html=1;dashed=0;whitespace=wrap;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="280" y="250" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="..." style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="14" value="..." style="html=1;dashed=0;whitespace=wrap;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="480" y="250" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="Frameworks" style="swimlane;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="15" value="Frameworks" style="swimlane;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="40" y="70" width="640" height="300" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="smcore" style="swimlane;startSize=23;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="2" value="smcore" style="swimlane;startSize=23;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="720" y="140" width="640" height="185" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="ANTLR" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="3" value="ANTLR" style="html=1;dashed=0;whitespace=wrap;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="760" y="205" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Parser Abstraction Layer&lt;br&gt;(smpal)" style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="4" value="Parser Abstraction Layer&lt;br&gt;(smpal)" style="html=1;dashed=0;whitespace=wrap;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="960" y="205" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="..." style="html=1;dashed=0;whitespace=wrap;container=0;fillColor=none;" parent="8" vertex="1">
+                <mxCell id="5" value="..." style="html=1;dashed=0;whitespace=wrap;container=0;strokeColor=#808080;" parent="8" vertex="1">
                     <mxGeometry x="1160" y="205" width="160" height="80" as="geometry"/>
                 </mxCell>
             </root>
