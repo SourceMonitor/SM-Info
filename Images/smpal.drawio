@@ -1,259 +1,259 @@
 <mxfile host="65bd71144e">
     <diagram id="5TZojqXVbbq3qXgQsASU" name="Page-1">
-        <mxGraphModel dx="1027" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="805" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="codeMetric" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="2" value="codeMetric" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="1080" y="993" width="200" height="208" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Branches&#10;" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="2" vertex="1">
+                <mxCell id="3" value="Branches&#10;" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
                     <mxGeometry y="26" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Calls" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="2" vertex="1">
+                <mxCell id="4" value="Calls" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
                     <mxGeometry y="52" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Comments" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="2" vertex="1">
+                <mxCell id="5" value="Comments" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
                     <mxGeometry y="78" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Complexity" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="2" vertex="1">
+                <mxCell id="6" value="Complexity" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
                     <mxGeometry y="104" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="LinesOfCode" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="2" vertex="1">
+                <mxCell id="7" value="LinesOfCode" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
                     <mxGeometry y="130" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="MaximumDepth" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="2" vertex="1">
+                <mxCell id="8" value="MaximumDepth" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
                     <mxGeometry y="156" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Statements" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="2" vertex="1">
+                <mxCell id="9" value="Statements" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2" vertex="1">
                     <mxGeometry y="182" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="See also SourceMonitor help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="11" value="See also SourceMonitor help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="837" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Code metrics of functions/methods" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="12" value="Code metrics of functions/methods" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1080" y="830" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;noEdgeStyle=1;fillColor=none;strokeColor=#808080;" parent="1" source="12" target="2" edge="1">
+                <mxCell id="14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;noEdgeStyle=1;fillColor=none;" parent="1" source="12" target="2" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="530" y="310" as="sourcePoint"/>
                         <mxPoint x="580" y="260" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="11" target="3" edge="1">
+                <mxCell id="15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="11" target="3" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="70" y="450" as="sourcePoint"/>
                         <mxPoint x="120" y="400" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="16" value="Counter: How often this function is called in the project.&lt;br&gt;See also SourceMonitor Help" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="16" value="Counter: How often this function is called in the project.&lt;br&gt;See also SourceMonitor Help" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="925" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="16" target="4" edge="1">
+                <mxCell id="17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="16" target="4" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="320" y="440" as="sourcePoint"/>
                         <mxPoint x="370" y="390" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="18" value="&lt;div&gt;Counter: How many lines of&amp;nbsp;&lt;span&gt;this function are comments?&amp;nbsp;&lt;/span&gt;&lt;span&gt;See also the SourceMonitor Help.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="18" value="&lt;div&gt;Counter: How many lines of&amp;nbsp;&lt;span&gt;this function are comments?&amp;nbsp;&lt;/span&gt;&lt;span&gt;See also the SourceMonitor Help.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1013" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="18" target="5" edge="1">
+                <mxCell id="19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="18" target="5" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="230" y="550" as="sourcePoint"/>
                         <mxPoint x="280" y="500" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="20" value="Calculated value: What are the rules for this? [[https://en.wikipedia.org/wiki/Cyclomatic_complexity McCabe?]] Jim used defines from this book [[https://en.wikipedia.org/wiki/Code_Complete Code Complete]]:&lt;br&gt;&lt;br&gt;&lt;div&gt;&quot;The complexity metric is counted approximately as defined by Steve McConnell in his book Code Complete, Microsoft Press, 1993, p.395. The complexity metric measures the number of execution paths through a function or method. Each function or method has a complexity of one plus one for each branch statement such as if, else, for, foreach, or while. Arithmetic if statements (MyBoolean ? ValueIfTrue : ValueIfFalse) each add one count to the complexity total. A complexity count is added for each '&amp;amp;&amp;amp;' and '||' in the logic within if, for, while or similar logic statements. Switch statements add complexity counts for each exit from a case (due to a break, goto, return, throw, continue, or similar statement), and one count is added for a default case even if one is not present. (Note: when a project's Modified Complexity option is selected, switch statements add a count of one to the complexity and the internal case statements do not contribute to the complexity metric.) Each catch or except statement in a try block (but not the try or finally statements) each add one count to the complexity as well.&quot; (Taken from the help file)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="20" value="Calculated value: What are the rules for this? [[https://en.wikipedia.org/wiki/Cyclomatic_complexity McCabe?]] Jim used defines from this book [[https://en.wikipedia.org/wiki/Code_Complete Code Complete]]:&lt;br&gt;&lt;br&gt;&lt;div&gt;&quot;The complexity metric is counted approximately as defined by Steve McConnell in his book Code Complete, Microsoft Press, 1993, p.395. The complexity metric measures the number of execution paths through a function or method. Each function or method has a complexity of one plus one for each branch statement such as if, else, for, foreach, or while. Arithmetic if statements (MyBoolean ? ValueIfTrue : ValueIfFalse) each add one count to the complexity total. A complexity count is added for each '&amp;amp;&amp;amp;' and '||' in the logic within if, for, while or similar logic statements. Switch statements add complexity counts for each exit from a case (due to a break, goto, return, throw, continue, or similar statement), and one count is added for a default case even if one is not present. (Note: when a project's Modified Complexity option is selected, switch statements add a count of one to the complexity and the internal case statements do not contribute to the complexity metric.) Each catch or except statement in a try block (but not the try or finally statements) each add one count to the complexity as well.&quot; (Taken from the help file)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1340" y="975" width="480" height="270" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="20" target="6" edge="1">
+                <mxCell id="21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="20" target="6" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="360" y="880" as="sourcePoint"/>
                         <mxPoint x="410" y="830" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="Counter: These are **all** lines of this function See also the SourceMonitor Help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="22" value="Counter: These are **all** lines of this function See also the SourceMonitor Help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1101" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="22" target="7" edge="1">
+                <mxCell id="23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="22" target="7" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="940" y="1330" as="sourcePoint"/>
                         <mxPoint x="990" y="1280" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="Counter: Maximum nested block depth level found. See also the SourceMonitor Help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="24" value="Counter: Maximum nested block depth level found. See also the SourceMonitor Help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1189" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="24" target="8" edge="1">
+                <mxCell id="25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="24" target="8" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1170" y="1440" as="sourcePoint"/>
                         <mxPoint x="1220" y="1390" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="26" value="Counter: Counts lines with valid statements, **no** empty lines, **no** comments. See also the SourceMonitor Help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="26" value="Counter: Counts lines with valid statements, **no** empty lines, **no** comments. See also the SourceMonitor Help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1277" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="26" target="9" edge="1">
+                <mxCell id="27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="26" target="9" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1040" y="1360" as="sourcePoint"/>
                         <mxPoint x="1090" y="1310" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" value="codeMetricCollection" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="28" value="codeMetricCollection" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="1080" y="1600" width="200" height="208" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="AverageStatements" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="28" vertex="1">
+                <mxCell id="29" value="AverageStatements" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="28" vertex="1">
                     <mxGeometry y="26" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="AvgComplexity" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="28" vertex="1">
+                <mxCell id="39" value="AvgComplexity" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="28" vertex="1">
                     <mxGeometry y="52" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="AvgDepth" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="28" vertex="1">
+                <mxCell id="42" value="AvgDepth" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="28" vertex="1">
                     <mxGeometry y="78" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="Functions" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="28" vertex="1">
+                <mxCell id="45" value="Functions" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="28" vertex="1">
                     <mxGeometry y="104" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="MaxComplexity" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="28" vertex="1">
+                <mxCell id="48" value="MaxComplexity" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="28" vertex="1">
                     <mxGeometry y="130" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="51" value="MaxDepth" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="28" vertex="1">
+                <mxCell id="51" value="MaxDepth" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="28" vertex="1">
                     <mxGeometry y="156" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="54" value="Source" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="28" vertex="1">
+                <mxCell id="54" value="Source" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="28" vertex="1">
                     <mxGeometry y="182" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="36" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1400" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="36" target="29" edge="1">
+                <mxCell id="38" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="36" target="29" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1040" y="1720" as="sourcePoint"/>
                         <mxPoint x="1090" y="1670" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="40" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="40" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1493" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="39" target="40" edge="1">
+                <mxCell id="41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="39" target="40" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1150" y="1730" as="sourcePoint"/>
                         <mxPoint x="1200" y="1680" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="43" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="43" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1587" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.25;entryY=0.808;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;strokeColor=#808080;" parent="1" source="43" target="42" edge="1">
+                <mxCell id="44" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.25;entryY=0.808;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;" parent="1" source="43" target="42" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1010" y="1750" as="sourcePoint"/>
                         <mxPoint x="1060" y="1700" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="46" value="Counter: Counts the number of functions found. See also SourceMonitor help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="46" value="Counter: Counts the number of functions found. See also SourceMonitor help." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1680" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.379;entryY=0.808;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;strokeColor=#808080;" parent="1" source="46" target="45" edge="1">
+                <mxCell id="47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.379;entryY=0.808;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;" parent="1" source="46" target="45" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1020" y="1730" as="sourcePoint"/>
                         <mxPoint x="1070" y="1680" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="49" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="49" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1773" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="49" target="48" edge="1">
+                <mxCell id="50" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="49" target="48" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1090" y="1790" as="sourcePoint"/>
                         <mxPoint x="1140" y="1740" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="52" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="52" value="Calculated value, based on subcontainers?" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1867" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="52" target="51" edge="1">
+                <mxCell id="53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="52" target="51" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1080" y="1900" as="sourcePoint"/>
                         <mxPoint x="1130" y="1850" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="55" value="Memorize the source of the collected codeMetric objects" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="55" value="Memorize the source of the collected codeMetric objects" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1960" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;strokeColor=#808080;" parent="1" source="55" target="54" edge="1">
+                <mxCell id="56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=none;" parent="1" source="55" target="54" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1050" y="1970" as="sourcePoint"/>
                         <mxPoint x="1100" y="1920" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="57" value="Contains metrics of a container like file, namespace, project" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="57" value="Contains metrics of a container like file, namespace, project" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1320" y="1483" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=none;strokeColor=#808080;" parent="1" source="28" target="57" edge="1">
+                <mxCell id="58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=none;" parent="1" source="28" target="57" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1390" y="1600" as="sourcePoint"/>
                         <mxPoint x="1260" y="1940" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="59" value="" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.505;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;jumpSize=6;startSize=6;endSize=20;fillColor=none;strokeColor=#808080;" parent="1" source="28" target="9" edge="1">
+                <mxCell id="59" value="" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.505;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;jumpSize=6;startSize=6;endSize=20;fillColor=none;" parent="1" source="28" target="9" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1410" y="1680" as="sourcePoint"/>
                         <mxPoint x="1460" y="1630" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="60" value="IPAL" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="60" value="IPAL" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="1960" y="1280" width="200" height="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="IPAL(projectData)" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="60" vertex="1">
+                <mxCell id="61" value="IPAL(projectData)" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="60" vertex="1">
                     <mxGeometry y="26" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="68" value="getMetricsProject()" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#808080;" parent="60" vertex="1">
+                <mxCell id="68" value="getMetricsProject()" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="60" vertex="1">
                     <mxGeometry y="52" width="200" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="69" value="parserCSharp" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="69" value="parserCSharp" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="2200" y="1684" width="200" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="72" value="parserC" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="72" value="parserC" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="1720" y="1684" width="200" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="73" value="parserCPP" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="73" value="parserCPP" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="1960" y="1684" width="200" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="74" value="" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;jumpSize=6;startSize=6;endSize=20;entryX=0.205;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;strokeColor=#808080;" parent="1" source="72" target="68" edge="1">
+                <mxCell id="74" value="" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;jumpSize=6;startSize=6;endSize=20;entryX=0.205;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;" parent="1" source="72" target="68" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1190" y="1610" as="sourcePoint"/>
                         <mxPoint x="1990" y="1430" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="75" value="" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;jumpSize=6;startSize=6;endSize=20;entryX=0.495;entryY=1.115;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;strokeColor=#808080;" parent="1" source="73" target="68" edge="1">
+                <mxCell id="75" value="" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;jumpSize=6;startSize=6;endSize=20;entryX=0.495;entryY=1.115;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;" parent="1" source="73" target="68" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1830" y="1694" as="sourcePoint"/>
                         <mxPoint x="2011" y="1368" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="76" value="" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;jumpSize=6;startSize=6;endSize=20;entryX=0.815;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;strokeColor=#808080;" parent="1" source="69" target="68" edge="1">
+                <mxCell id="76" value="" style="endArrow=block;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;jumpSize=6;startSize=6;endSize=20;entryX=0.815;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;" parent="1" source="69" target="68" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="2070" y="1694" as="sourcePoint"/>
                         <mxPoint x="2069" y="1370.9899999999998" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="77" value="Common interface each parser DLL must implement." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="77" value="Common interface each parser DLL must implement." style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1960" y="1040" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;startSize=6;endSize=20;jumpSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=none;strokeColor=#808080;" parent="1" source="60" target="77" edge="1">
+                <mxCell id="78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;startSize=6;endSize=20;jumpSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=none;" parent="1" source="60" target="77" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="2120" y="1250" as="sourcePoint"/>
                         <mxPoint x="1870" y="1270" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="79" value="projectData" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="79" value="projectData" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="2240" y="1280" width="200" height="52" as="geometry"/>
                 </mxCell>
-                <mxCell id="82" value="Contains all files of a project" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#808080;" parent="1" vertex="1">
+                <mxCell id="82" value="Contains all files of a project" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="2240" y="1040" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="83" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;startSize=6;endSize=20;jumpSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=none;strokeColor=#808080;" parent="1" source="79" target="82" edge="1">
+                <mxCell id="83" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;startSize=6;endSize=20;jumpSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=none;" parent="1" source="79" target="82" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="2310" y="1230" as="sourcePoint"/>
                         <mxPoint x="2360" y="1180" as="targetPoint"/>
