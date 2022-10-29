@@ -6,18 +6,30 @@ Jim Wanner retired from software development. The software [SourceMonitor][tool_
 
 The programm is able to collect metrics from source code:
 
-* Collects metrics in a fast, single pass through source files.
-* Measures metrics for source code written in C++, C, C#, VB.NET, Java, Delphi, Visual Basic (VB6) or HTML.
-* Includes method and function level metrics for C++, C, C#, VB.NET, Java, and Delphi.
-* Offers Modified Complexity metric option.
-* Saves metrics in checkpoints for comparison during software development projects.
-* Displays and prints metrics in tables and charts, including Kiviat diagrams.
-* Operates within a standard Windows GUI or inside your scripts using XML command files.
-* Exports metrics to XML or CSV (comma-separated-value) files for further processing with other tools.
+- Collects metrics in a fast, single pass through source files.
+- Measures metrics for source code written in C++, C, C#, VB.NET, Java, Delphi, Visual Basic (VB6) or HTML.
+- Includes method and function level metrics for C++, C, C#, VB.NET, Java, and Delphi.
+- Offers Modified Complexity metric option.
+- Saves metrics in checkpoints for comparison during software development projects.
+- Displays and prints metrics in tables and charts, including Kiviat diagrams.
+- Operates within a standard Windows GUI or inside your scripts using XML command files.
+- Exports metrics to XML or CSV (comma-separated-value) files for further processing with other tools.
 
 ## Motivation
 
 In my life as a software developer I have come to appreciate and love SourceMonitor. After doing an update, I read that Jim will no longer be actively developing SourceMonitor. When I suggested him to make SourceMonitor OpenSource, we got more in contact. I would like to make this great project OpenSource and develop it further.
+
+## Decissions made
+
+- Continue the [SourceMonitor][tool_sourcemonitor] project in the sense of Jim Wanner
+- Work on [SourceMonitor][tool_sourcemonitor] to make it open source
+- Programming language: [C++][language_cpp]
+- License: [MIT][license_mit]
+
+### Used tools and frameworks
+
+- **20221029** - Use [CMake][tool_cmake] in minimum version 3.5
+- **20221029** - Use [Qt][framework_qt] for UI în version 6.2 LTS
 
 ## Used tools
 
@@ -168,33 +180,30 @@ Assuming that each language parser will be encapsulated in an own library, the d
   - Con: UTF-8 might be a problem
   - Con: The performance might be a problem
 
-## Decissions
+## Open points
 
-### Open decissions
+There are some points left where the SourceMonitor team needs to make some
+decisions. For some of them there are discussions already stareted.
 
-- C++ level - C++11, C++14, C++17, C++20 or even C++23/26
-- C++ framework - [Qt][framework_qt] or [boost][framework_boost] or something else?
-- Development - `refactoring` vs `start from scratch`
+- C++ level - C++11, C++14, C++17, C++20 or even C++23/26 is discussed [here][discussion_cpplevel]
+- C++ frameworks are discussed [here][discussion_cppframeworks]
+- Development - `refactoring` vs `start from scratch` is discussed [here][discussion_scratch]
 - Internationalization - [ICU][framework_icu]?
 - Logging framework - [plog][tool_plog]?
 - Parser - [Antlr4][tool_antlr]?
 - Plugin system for parser libraries?
 - Software architecture?
-- UI framework - [Qt][framework_qt]?
+- Used metrics of SourceMonitor are discussed [here][discussion_metrics]
 - How to document
   - Code - [doxygen][tool_doxygen]?
   - Architecture graphics - [drawio][tool_diagrams]?
   - Help system - anyone of [these][tool_help_systems]?
   - Documentation - [markdown][tool_markdown]?
 
-### Decissions made
-
-- Continue the [SourceMonitor][tool_sourcemonitor] project in the sense of Jim Wanner
-- Use [CMake][tool_cmake]
-- Work on [SourceMonitor][tool_sourcemonitor] to make it open source
-- Programming language: [C++][language_cpp]
-- License: [MIT][license_mit]
-
+[discussion_cppframeworks]: https://github.com/SourceMonitor/SM-Info/discussions/4
+[discussion_cpplevel]: https://github.com/SourceMonitor/SM-Info/discussions/3
+[discussion_metrics]: https://github.com/SourceMonitor/SM-Info/discussions/9
+[discussion_scratch]: https://github.com/SourceMonitor/SM-Info/discussions/5
 [framework_boost]: https://www.boost.org/
 [framework_catch2]: https://github.com/catchorg/Catch2
 [framework_googletest]: https://google.github.io/googletest/
@@ -216,9 +225,9 @@ Assuming that each language parser will be encapsulated in an own library, the d
 [tool_help_systems]: https://en.wikipedia.org/wiki/List_of_help_authoring_tools
 [tool_inno_setup]: https://jrsoftware.org/isinfo.php
 [tool_logging_framework]: https://en.cppreference.com/w/cpp/links/libs#Logging
-[tool_markdownlint]: https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
 [tool_markdown]: https://daringfireball.net/projects/markdown/
 [tool_markdown_pdf_plugin]: https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
+[tool_markdownlint]: https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
 [tool_mfc]: https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170
 [tool_parser_generator]: https://en.wikipedia.org/wiki/Comparison_of_parser_generators
 [tool_plog]: https://github.com/SergiusTheBest/plog
