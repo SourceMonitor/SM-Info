@@ -19,7 +19,7 @@ The programm is able to collect metrics from source code:
 
 In my life as a software developer I have come to appreciate and love SourceMonitor. After doing an update, I read that Jim will no longer be actively developing SourceMonitor. When I suggested him to make SourceMonitor OpenSource, we got more in contact. I would like to make this great project OpenSource and develop it further.
 
-## Develop0ment
+## Development
 
 We started with re-development in [this][sourcemonitoros] repository.
 
